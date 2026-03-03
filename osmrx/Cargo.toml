@@ -1,0 +1,11 @@
+[package]
+name = "osmrx"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "osmrx"
+test = false
+bench = false 
+
+[dependencies]

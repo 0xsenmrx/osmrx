@@ -1,0 +1,8 @@
+# --- Rust & Cargo ---
+/target/
+Cargo.lock
+
+# --- UEFI & Emulation ---
+# We ignore the virtual hard drive folder and firmware
+/esp/
+OVMF_CODE.fd
